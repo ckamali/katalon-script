@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46aa40aa-3bf2-4969-922c-a0a61b2bc02d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2ae1c106-625d-4618-b952-042c77b42f2e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/data</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

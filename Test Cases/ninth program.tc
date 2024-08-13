@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ninth program</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3693aba5-a89a-415a-8bce-9e0f1380eb13</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00247e43-8735-442e-876a-555183fe0f7a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hello'</defaultValue>
+      <description></description>
+      <id>00247e43-8735-442e-876a-555183fe0f7a</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

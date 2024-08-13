@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log In</name>
+   <tag></tag>
+   <elementGuidId>53266b98-c479-40ee-be07-6e20d4b4ca32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_MainContent_btnLogIn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_btnLogIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Log In&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4eec879e-f1a1-4e6f-aff7-64bf31e50166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_btnLogIn</value>
+      <webElementGuid>d7d34a9c-76bb-4af2-9056-7893e9019921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>06ebea50-6fdb-4158-8db0-83fa782149f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$btnLogIn&quot;, &quot;&quot;, true, &quot;grpLogin&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>aa72857e-da7a-4222-a1c4-65d3bf58740a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>783ea8f5-a8f1-45fc-848d-d805185ed3cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_btnLogIn&quot;)</value>
+      <webElementGuid>fdf4818a-5e04-4d19-8050-61b0fc897bfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_MainContent_btnLogIn']</value>
+      <webElementGuid>5f755b19-6325-402e-8ea4-fdfed5381cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/div[3]/article/div/a</value>
+      <webElementGuid>973cd220-bf1c-48d8-9e8e-f06708f76caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log In')]</value>
+      <webElementGuid>ff927f18-c417-4ef0-b4bc-51c6c65c4d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/following::a[1]</value>
+      <webElementGuid>6da106bb-3a94-4d0b-8bd3-f23ff2f73e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name:'])[1]/following::a[1]</value>
+      <webElementGuid>253da265-3c37-4dfa-a573-a55a8014e4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Auto Repair Financial!'])[1]/preceding::a[1]</value>
+      <webElementGuid>c2039237-91b4-4588-ab8d-4ff808cd2ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARF Advantages for Independent Repairer’s:'])[1]/preceding::a[1]</value>
+      <webElementGuid>17a93bf6-262e-4357-a522-358b69992dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
+      <webElementGuid>3e307cd9-b87d-46c3-b9d5-a3b4da263732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$btnLogIn&quot;, &quot;&quot;, true, &quot;grpLogin&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>15eb421a-8bb3-4c55-83ef-91ea8cc01aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>9dd66077-c255-4922-802d-b92429bbd82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_MainContent_btnLogIn' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$btnLogIn&quot;, &quot;&quot;, true, &quot;grpLogin&quot;, &quot;&quot;, false, true))' and (text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>9b707ab9-5530-4b01-9823-d2ed2ae593df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

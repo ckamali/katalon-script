@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>For variable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6495ef8-8544-49ec-8244-cc92309b92a7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7dc7641-4ed6-472f-ad1c-d460e5394251</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2acf81a-d92b-4932-97d0-6ddeefa0edfa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user@phptravels.com\r\n'</defaultValue>
+      <description></description>
+      <id>c7dc7641-4ed6-472f-ad1c-d460e5394251</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'demouser\r\n'</defaultValue>
+      <description></description>
+      <id>a2acf81a-d92b-4932-97d0-6ddeefa0edfa</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

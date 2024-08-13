@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be1dc00e-ee55-41f1-8a21-1348e171ef4b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd9a5afd-5248-4c29-88cd-7ecbbc6f3949</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa37f240-56f1-4859-afff-f246ddd74cef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>cd9a5afd-5248-4c29-88cd-7ecbbc6f3949</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>fa37f240-56f1-4859-afff-f246ddd74cef</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

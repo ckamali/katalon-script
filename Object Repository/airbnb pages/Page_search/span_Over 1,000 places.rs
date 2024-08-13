@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Over 1,000 places</name>
+   <tag></tag>
+   <elementGuidId>eada22a1-8595-432a-80a3-a35b3d3aed1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.tyi4kqb.atm_c8_km0zk7.atm_g3_18khvle.atm_fr_1m9t47k.atm_cs_10d11i2.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-content']/div/div/div/div/div/section/h1/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;stays-page-heading&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab8549bf-016b-4e0d-8dd2-04997d801860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tyi4kqb atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_cs_10d11i2 dir dir-ltr</value>
+      <webElementGuid>e4262b09-8b53-453f-8573-e0e0aa29ec03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>499ae48e-b747-458f-8c79-b07b8b4bf3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stays-page-heading</value>
+      <webElementGuid>312a8526-10b0-4a40-9bf9-0408b02cdd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over 1,000 places</value>
+      <webElementGuid>8a07d575-dace-424a-ae01-db95fa16f776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;l196t2l1 atm_gz_p5ox87 atm_h0_p5ox87 atm_gq_r5k8ab atm_gz_1od0ugv__oggzyc atm_h0_1od0ugv__oggzyc atm_gq_idpfg4__oggzyc atm_gz_p5ox87__1v156lz atm_h0_p5ox87__1v156lz atm_gq_idpfg4__1v156lz dir dir-ltr&quot;]/div[@class=&quot;fifuzsw atm_gq_p5ox87 atm_h3_p5ox87 dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/div[@class=&quot;t17a5psn atm_9s_1txwivl atm_ar_1bp4okc atm_cx_evh4rp dir dir-ltr&quot;]/section[1]/h1[@class=&quot;hpipapi atm_7l_1kw7nm4 atm_c8_1x4eueo atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_l8_idpfg4 atm_kd_idpfg4_pfnrn2 dir dir-ltr&quot;]/span[@class=&quot;tyi4kqb atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_cs_10d11i2 dir dir-ltr&quot;]</value>
+      <webElementGuid>9c7ccb8b-f9f7-4ecd-ba8f-528adcbe5d67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-content']/div/div/div/div/div/section/h1/span[2]</value>
+      <webElementGuid>fa327c6a-1fc6-496c-a068-e022891c2fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search results; Over 1,000 places'])[1]/following::span[1]</value>
+      <webElementGuid>11258d56-2700-4bc4-b18e-8db92bc7b326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show map'])[1]/following::span[2]</value>
+      <webElementGuid>c4cf9809-6d9b-41d6-9ec6-2c454dac3555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Superhost'])[1]/preceding::span[13]</value>
+      <webElementGuid>b2d9bd81-1fb3-41bf-b989-76147f6a328a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shared room in Lisbon, Portugal'])[1]/preceding::span[22]</value>
+      <webElementGuid>4b8cfbdd-7a97-4e25-a644-3aff994750ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Over 1,000 places']/parent::*</value>
+      <webElementGuid>f92719c1-0b66-427e-a6db-c889fa28ee7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span[2]</value>
+      <webElementGuid>fcdcafe1-b81d-4502-b990-8d2e8abf08bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over 1,000 places' or . = 'Over 1,000 places')]</value>
+      <webElementGuid>ecb299df-65ae-4da2-a774-f7721d1ff9fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fourth program</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb15bce5-d3a3-4b0c-8b29-8bdbe15c2021</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e99438c-b9a2-41c5-85a4-50fe5b070e99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'www.google.com\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>9e99438c-b9a2-41c5-85a4-50fe5b070e99</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
